@@ -9,3 +9,6 @@ public void Thing(string input){
   input = input + " nooooooo!";
 }
 ```
+- [x] Collect underpants
+- [ ] ...
+- [ ] Proffit
